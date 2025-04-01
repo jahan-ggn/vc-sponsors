@@ -1,4 +1,4 @@
-# **Plugin Name** Plugin
+# **Vc Sponsors** Plugin
 
 **Plugin Summary**
 

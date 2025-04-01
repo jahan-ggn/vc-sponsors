@@ -3,7 +3,7 @@ en:
     admin:
       site_settings:
         categories:
-          TODO_plugin_name: "Plugin Name"
+          vc_sponsors: "Vc Sponsors"
   js:
-    discourse_plugin_name:
+    vc_sponsors:
       placeholder: placeholder
