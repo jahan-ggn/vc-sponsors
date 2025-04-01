@@ -1,4 +1,8 @@
 vc_sponsors:
-  vc_sponsors_enabled:
-    default: false
+  VC_sponsors_enabled:
+    default: true
     client: true
+  VC_sponsors_data:
+    client: true
+    default: "{}"
+    type: json_schema

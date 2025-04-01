@@ -1,0 +1,17 @@
+{{#if this.sortedSponsors.length}}
+  <div class="sponsors-grid">
+    {{#each this.sortedSponsors as |sponsor|}}
+      <div class="grid-item">
+        <img
+          src={{sponsor.url}}
+          alt="Sponsor {{sponsor.key}}"
+          class="grid-image"
+        />
+      </div>
+    {{/each}}
+  </div>
+{{else}}
+  <div class="no-sponsors-message">
+    There are no sponsors yet. Stay tuned for exciting announcements!
+  </div>
+{{/if}}

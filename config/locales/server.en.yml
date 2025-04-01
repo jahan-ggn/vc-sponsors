@@ -1,1 +1,4 @@
 en:
+ site_settings:
+  VC_sponsors_enabled: "Enable or disable the Sponsors Grid plugin. When disabled, the sponsor list and related UI will not be shown."
+  VC_sponsors_data: "JSON data for sponsor logos."
