@@ -2,4 +2,4 @@
 
 **Plugin Summary**
 
-For more information, please see: **url to meta topic**
+A plugin to manage and display VC community sponsor logos with ease.
