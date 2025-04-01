@@ -1,4 +1,4 @@
-# **Vc Sponsors** Plugin
+# **VC Sponsors** Plugin
 
 **Plugin Summary**
 
