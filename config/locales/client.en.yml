@@ -3,7 +3,7 @@ en:
     admin:
       site_settings:
         categories:
-          vc_sponsors: "Vc Sponsors"
+          vc_sponsors: "VC Sponsors"
   js:
     vc_sponsors:
       placeholder: placeholder
